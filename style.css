@@ -334,3 +334,14 @@ border-radius: 10px;
     cursor: pointer;
     padding: 18px 0;
 }
+.profile-pic {
+    width: 100px;
+    height: 100px;
+    border-radius: 60%;
+    background-image: url('imas/logo.png');
+    background-size: cover;
+    background-position: center;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  
